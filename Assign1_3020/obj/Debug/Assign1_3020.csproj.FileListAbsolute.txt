@@ -1,0 +1,6 @@
+C:\Users\yusuf\OneDrive - Trent University\Visual Studio 2012\Projects\Assign1_3020\Assign1_3020\bin\Debug\Assign1_3020.exe.config
+C:\Users\yusuf\OneDrive - Trent University\Visual Studio 2012\Projects\Assign1_3020\Assign1_3020\obj\Debug\Assign1_3020.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\OneDrive - Trent University\Visual Studio 2012\Projects\Assign1_3020\Assign1_3020\bin\Debug\Assign1_3020.exe
+C:\Users\yusuf\OneDrive - Trent University\Visual Studio 2012\Projects\Assign1_3020\Assign1_3020\bin\Debug\Assign1_3020.pdb
+C:\Users\yusuf\OneDrive - Trent University\Visual Studio 2012\Projects\Assign1_3020\Assign1_3020\obj\Debug\Assign1_3020.exe
+C:\Users\yusuf\OneDrive - Trent University\Visual Studio 2012\Projects\Assign1_3020\Assign1_3020\obj\Debug\Assign1_3020.pdb
