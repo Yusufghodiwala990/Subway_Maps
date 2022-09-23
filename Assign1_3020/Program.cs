@@ -1,7 +1,7 @@
 ﻿/*----------------------------------------------------------------------*/
 
 /*This console application uses Concepts in Graphs/Graph theory to manipulate vertexes and edges in the form of Subway Stations
- * to be able apply various Graph Theory techniques. Stations are stored in a List while connections of stations are stored
+ * to be able to apply various Graph Theory techniques. Stations are stored in a List while connections of stations are stored
    in a Linked-list. This is the Adjacency List implementation of a Graph. We can perform meaningful operations such as 
  * Breadth-First Search and Depth-First Search to gather useful information. */
 
